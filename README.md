@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @monk-iatsu
+- 👀 I’m interested in gaming, data science, extreme weather
+- 🌱 I’m currently learning intermediate python3
+- 💞️ I’m looking to collaborate on data science and analysis
+- 📫 How to reach me email at rosejustin601@gmail.com
