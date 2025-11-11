@@ -77,3 +77,7 @@ table td:hover {
 th, td {
     padding: 15px
 }
+
+.music-border {
+    border: solid 3px #009ac9;
+}
