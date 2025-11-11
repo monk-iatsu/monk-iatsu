@@ -1,0 +1,9 @@
+@media screen and (max-width: 599px) {
+    body {
+        font-size: 12px;
+    }
+    
+    .phone-display {
+        display: none;
+    }
+}
